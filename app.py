@@ -53,7 +53,8 @@ if 'llm' not in st.session_state:
 if 'chat_history' not in st.session_state:
     st.session_state.chat_history = []
 
-st.title("PDF Chatbot")
+st.title("Motorola Chatbot Integration")
+st.subheader("Sample chatbot using langchain and mistral AI to read and chat on the content from the given pdf")
 
 # Upload a PDF file
 uploaded_file = st.file_uploader("Upload your PDF", type='pdf')
