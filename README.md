@@ -11,7 +11,7 @@ Ollama allows you to run open-source large language models, such as Llama 2, loc
 1. Clone this repository:
    
  ```
- git clone https://github.com/SonicWarrior1/pdfchat.git
+ git clone https://github.com/krishna-shah-07/ChatBot_Langchain.git
  ```
 2. Install all the depenedencies :
    
